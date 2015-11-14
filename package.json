@@ -1,14 +1,14 @@
 {
   "name": "bitcore-node",
-  "description": "Full node with extended capabilities using Bitcore and Bitcoin Core",
+  "description": "Full node with extended capabilities using Bitcore and Bitcoin Core, backed by an LMDB database",
   "author": "BitPay <dev@bitpay.com>",
   "version": "1.0.0-dev",
   "lastBuild": "1.0.0",
   "main": "./index.js",
-  "repository": "git://github.com/bitpay/bitcore-node.git",
-  "homepage": "https://github.com/bitpay/bitcore-node.js",
+  "repository": "git://github.com/vincentmele/bitcore-node.git",
+  "homepage": "https://github.com/vincentmele/bitcore-node.js",
   "bugs": {
-    "url": "https://github.com/bitpay/bitcore-node/issues"
+    "url": "https://github.com/vincentmele/bitcore-node/issues"
   },
   "contributors": [
     {
@@ -25,6 +25,10 @@
     {
       "name": "Patrick Nagurny",
       "email": "patrick@bitpay.com"
+    }
+    {
+      "name": "Vincent Mele",
+      "email": "vincentmele@gmail.com"
     }
   ],
   "bin": {
